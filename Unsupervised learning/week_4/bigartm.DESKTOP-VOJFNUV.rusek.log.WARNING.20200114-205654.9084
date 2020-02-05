@@ -1,0 +1,22 @@
+Log file created at: 2020/01/14 20:56:54
+Running on machine: DESKTOP-VOJFNUV
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0114 20:56:54.725770  2312 helpers.cc:211] File already exists: my_collection_batches\aaaaaa.batch
+W0114 20:56:54.792783  7728 helpers.cc:211] File already exists: my_collection_batches\aaaaab.batch
+W0114 20:56:54.869954  8896 helpers.cc:211] File already exists: my_collection_batches\aaaaac.batch
+W0114 20:56:54.885614  7576 helpers.cc:211] File already exists: my_collection_batches\aaaaad.batch
+W0114 20:56:54.915364  2312 helpers.cc:211] File already exists: my_collection_batches\aaaaae.batch
+W0114 20:56:55.038462  7728 helpers.cc:211] File already exists: my_collection_batches\aaaaaf.batch
+W0114 20:56:55.154939  2312 helpers.cc:211] File already exists: my_collection_batches\aaaaai.batch
+W0114 20:56:55.170612  8896 helpers.cc:211] File already exists: my_collection_batches\aaaaah.batch
+W0114 20:56:55.644083  7576 helpers.cc:211] File already exists: my_collection_batches\aaaaag.batch
+W0114 20:56:55.687976  7728 helpers.cc:211] File already exists: my_collection_batches\aaaaaj.batch
+W0114 20:56:56.316709  2312 helpers.cc:211] File already exists: my_collection_batches\aaaaak.batch
+W0114 20:56:56.344462  8896 helpers.cc:211] File already exists: my_collection_batches\aaaaal.batch
+W0114 20:56:56.526633  7728 helpers.cc:211] File already exists: my_collection_batches\aaaaan.batch
+W0114 20:56:56.569034  7576 helpers.cc:211] File already exists: my_collection_batches\aaaaam.batch
+W0114 20:56:56.639190  7576 helpers.cc:211] File already exists: my_collection_batches\aaaaar.batch
+W0114 20:56:56.695696  7728 helpers.cc:211] File already exists: my_collection_batches\aaaaaq.batch
+W0114 20:56:56.915341  2312 helpers.cc:211] File already exists: my_collection_batches\aaaaao.batch
+W0114 20:56:56.988943  8896 helpers.cc:211] File already exists: my_collection_batches\aaaaap.batch
+W0114 20:59:10.021809 12100 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
