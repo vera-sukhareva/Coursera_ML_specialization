@@ -13,9 +13,9 @@ https://www.coursera.org/specializations/machine-learning-data-analysis#about
 ## In this repository:
 
 * course 1 
- 1. *Python Modules and Linear Algebra*
- 2. *Optimization and matrix decomposition*
- 3. *Basic concepts of probability theory and statistics*
+  - *Python Modules and Linear Algebra*
+  - *Optimization and matrix decomposition*
+  - *Basic concepts of probability theory and statistics*
 * course 2 - Supervised learning 
 * course 3 - Unsupervised learning 
 * course 4 - Stats for data analysis
