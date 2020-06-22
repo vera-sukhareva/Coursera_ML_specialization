@@ -1,6 +1,6 @@
 # Coursera_ML_specialization
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhabr.com%2Fru%2Fcompany%2Fyandex%2Fblog%2F277427%2F&psig=AOvVaw3lNxdITrQ7sszbsYi0l7U1&ust=1592889423483000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjAgNXVlOoCFQAAAAAdAAAAABAO)
+![Screenshot](spec.jpg)
 
 This specialization consider the basic topics of machine learning, which are necessary in working with a large array of data, including basic fundamental mathematics, Python programming, modern methods of classification and regression, search of structure in data, conducting experiments, writing conclusions.
 
