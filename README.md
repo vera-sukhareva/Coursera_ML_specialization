@@ -10,16 +10,33 @@ A prediction model was built in the final project (course 6). The model predicts
 
 https://www.coursera.org/specializations/machine-learning-data-analysis#about
 
-## In this repository:
+## Сourses topics:
 
 * course 1 
   - *Python Modules and Linear Algebra*
   - *Optimization and matrix decomposition*
   - *Basic concepts of probability theory and statistics*
 * course 2 - Supervised learning 
+  - Machine learning and linear models
+  - Techniques to prevent overfitting and evaluating the model quality
+  - Linear models: classification and practical aspects
+  - Decision trees and algorithm compositions
 * course 3 - Unsupervised learning 
+  - Clustering
+  - Dimensionality reduction and matrix decompositions
+  - Visualization and anomaly detection
+  - Thematic modeling
 * course 4 - Stats for data analysis
+  - Intervals and hypotheses
+  - AB testing
+  - Patterns and dependencies
+  - Applied tasks
 * course 5 - Data analysis applications
+  - Business tasks (time series forecasting)
+  - Analysis of media (computer vision)
+  - Text analysis
+  - Recommendations and ranking
 * course 6 - Data analysis project
+  - Сhurn prediction project
 
 All of this folders contain notebooks with homework and data.
