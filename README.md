@@ -19,4 +19,4 @@ https://www.coursera.org/specializations/machine-learning-data-analysis#about
 * course 5 - Data analysis applications
 * course 6 - Data analysis project
 
-All of this folders contain notebooks with homework and data/
+All of this folders contain notebooks with homework and data.
