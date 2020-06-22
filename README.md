@@ -12,7 +12,10 @@ https://www.coursera.org/specializations/machine-learning-data-analysis#about
 
 ## In this repository:
 
-* course 1 - Math and python 
+* course 1 
+ - Python Modules and Linear Algebra
+ - Optimization and matrix decomposition
+ - Basic concepts of probability theory and statistics
 * course 2 - Supervised learning 
 * course 3 - Unsupervised learning 
 * course 4 - Stats for data analysis
